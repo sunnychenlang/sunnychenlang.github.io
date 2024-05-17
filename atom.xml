@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sunnychenlang.github.io</id>
+    <title>Sunnychenlang&apos;s blog</title>
+    <updated>2024-05-17T13:31:32.732Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sunnychenlang.github.io"/>
+    <link rel="self" href="https://sunnychenlang.github.io/atom.xml"/>
+    <subtitle>blog UI</subtitle>
+    <logo>https://sunnychenlang.github.io/images/avatar.png</logo>
+    <icon>https://sunnychenlang.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Sunnychenlang&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Sunny-cl's GunFight]]></title>
+        <id>https://sunnychenlang.github.io/post/sunny-cls-gunfight/</id>
+        <link href="https://sunnychenlang.github.io/post/sunny-cls-gunfight/">
+        </link>
+        <updated>2024-05-17T13:30:18.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="介绍">介绍</h2>
+<p>Sunny-cl费尽心机制作的GunFight终于做完了，快来玩吧。<br>
+为了保护Sunny-cl的版权，游戏只有exe，并没有cpp。</p>
+<h3 id="点击gunfightexe开始游戏">点击GunFight.exe开始游戏</h3>
+<h2 id="下载">下载</h2>
+<p><a href="https://www.123pan.com/s/ufyyVv-vzSUA.html">https://www.123pan.com/s/ufyyVv-vzSUA.html</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cl自制小游戏]]></title>
+        <id>https://sunnychenlang.github.io/post/cl-zi-zhi-xiao-you-xi/</id>
+        <link href="https://sunnychenlang.github.io/post/cl-zi-zhi-xiao-you-xi/">
+        </link>
+        <updated>2024-04-30T14:35:54.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="介绍">介绍</h1>
+<p>一些我自己做的小游戏<br>
+1.贪吃蛇(Snake)<br>
+2.数独(Sudoku)</p>
+<h1 id="下载">下载</h1>
+<p><a href="https://www.123pan.com/s/ufyyVv-WKSUA.html">https://www.123pan.com/s/ufyyVv-WKSUA.html</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sunny-cl 's GunFight demo]]></title>
+        <id>https://sunnychenlang.github.io/post/sunny-cl-s-gunfight/</id>
+        <link href="https://sunnychenlang.github.io/post/sunny-cl-s-gunfight/">
+        </link>
+        <updated>2024-03-16T12:58:50.000Z</updated>
+        <content type="html"><![CDATA[<p>demo版</p>
+<h2 id="下载链接">下载链接</h2>
+<p><a href="https://www.123pan.com/s/ufyyVv-BLUUA.html">https://www.123pan.com/s/ufyyVv-BLUUA.html</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sunny-cl's explorer v1.0]]></title>
+        <id>https://sunnychenlang.github.io/post/sunny-cls-explorer-v10/</id>
+        <link href="https://sunnychenlang.github.io/post/sunny-cls-explorer-v10/">
+        </link>
+        <updated>2024-03-03T01:45:04.000Z</updated>
+        <content type="html"><![CDATA[<p>sunny-cl's explorer v1.0</p>
+<h1 id="功能">功能</h1>
+<p>目前可实现的功能有：</p>
+<ul>
+<li>
+<p>删除 文件/文件夹**（不可逆）**</p>
+</li>
+<li>
+<p>新建 文件/文件夹</p>
+</li>
+<li>
+<p>浏览 文件/文件夹</p>
+</li>
+<li>
+<p>打开 文件/文件夹</p>
+</li>
+</ul>
+<h1 id="用法">用法</h1>
+<p>具体用法如下：</p>
+<table>
+<thead>
+<tr>
+<th>按键</th>
+<th>用途</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>↑↓键</td>
+<td>移动“&gt;”光标</td>
+</tr>
+<tr>
+<td>→键</td>
+<td>进入文件夹(对于文件不可用)</td>
+</tr>
+<tr>
+<td>←键</td>
+<td>返回上一级</td>
+</tr>
+<tr>
+<td>BackSpace</td>
+<td>返回此电脑</td>
+</tr>
+<tr>
+<td>D</td>
+<td>删除文件/文件夹</td>
+</tr>
+<tr>
+<td>Enter</td>
+<td>打开文件/进入文件夹</td>
+</tr>
+<tr>
+<td>S</td>
+<td>打开文件/在系统自带的explorer中显示指向的文件夹</td>
+</tr>
+<tr>
+<td>N</td>
+<td>新建 文件/文件夹</td>
+</tr>
+<tr>
+<td>F5</td>
+<td>刷新文件列表</td>
+</tr>
+</tbody>
+</table>
+<h1 id="下载">下载</h1>
+<p>下载地址：</p>
+<p><a href="https://www.123pan.com/s/ufyyVv-aLUUA.html">https://www.123pan.com/s/ufyyVv-aLUUA.html</a></p>
+]]></content>
+    </entry>
+</feed>
